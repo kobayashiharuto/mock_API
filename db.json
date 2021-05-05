@@ -1,8 +1,20 @@
 {
   "users": [
     {
-      "id": "aw75aw5fe2fa7g",
-      "name": "john"
+      "id": "mock1",
+      "name": "john",
+      "message": "I love a cake!!!",
+      "avatarURL": "https://commons.wikimedia.org/wiki/File:Missing_avatar.svg",
+      "login": true,
+      "createdAt": "2021-03-02 11:11:00"
+    },
+    {
+      "id": "mock2",
+      "name": "white",
+      "message": "",
+      "avatarURL": "https://commons.wikimedia.org/wiki/File:Missing_avatar.svg",
+      "login": true,
+      "createdAt": "2021-03-25 08:15:00"
     }
   ]
 }
